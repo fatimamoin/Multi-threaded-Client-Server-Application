@@ -8,8 +8,3 @@ server: server.c
 
 client: client.c
 	gcc -o client client.c -lpthread
-
-
-
-#linked_list: linked_list.c
-#	gcc -o linked_list linked_list.c -Wall
